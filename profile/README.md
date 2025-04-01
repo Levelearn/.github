@@ -1,18 +1,12 @@
-# Levelearn - Human Centered Gamified Learning Platform
+# Levelearn - Human Centered Gamified Learning Platform [![Status Proyek](https://img.shields.io/badge/Status-Aktif-success.svg)](https://github.com/Levelearn) 
 
-[![Status Proyek](https://img.shields.io/badge/Status-Aktif-success.svg)](https://github.com/Levelearn) Selamat datang di organisasi GitHub **Levelearn**! Organisasi ini didedikasikan untuk menyimpan dan mengelola kode yang dikembangkan dalam penelitian kami yang berjudul:
+<img alt="Levelearn Header" src="about-header.png" width="100%" />
+
+Selamat datang di organisasi GitHub **Levelearn**! Organisasi ini didedikasikan untuk menyimpan dan mengelola kode yang dikembangkan dalam penelitian kami yang berjudul:
 
 **"Pendekatan Gamifikasi berbasis Preferensi Pengguna untuk Optimalisasi Pengalaman Pengguna pada E-Learning"**
 
 Penelitian ini bertujuan untuk meningkatkan pengalaman pengguna pada aplikasi pembelajaran mobile melalui penerapan elemen gamifikasi yang disesuaikan dengan preferensi pengguna.
-
-## Tim Penelitian TA-2024/2025-13
-
-* **Archico Sembiring** (11S21011)
-* **Benhard Yuda** (11S21003)
-* **Rafael A. C. Manurung** (11S21028)
-
-**Dosen Pembimbing:** Ranty Deviana Siahaan, S.Kom., M.Eng
 
 ## Ringkasan Penelitian
 
@@ -36,6 +30,8 @@ Penelitian ini terdiri dari tiga fase utama, dan kode untuk setiap fase akan dik
     * Pengukuran pengalaman pengguna akan menggunakan **HEART Framework**.
     * Pengumpulan dan analisis data evaluasi akan dilakukan.
     * Kode dan analisis data terkait fase ini juga akan disimpan di repositori **data-analysis**.
+  
+<img alt="Levelearn Header" src="about-logo.png" width="100%" />
 
 ## Repositori
 
@@ -50,6 +46,14 @@ Organisasi ini memiliki repositori berikut:
 * **data-analysis:** Berisi *notebook* Jupyter (ipynb) dan file-file lain yang digunakan untuk analisis data pada fase pengumpulan preferensi pengguna (DPE) dan evaluasi (HEART Framework).
 
 Pastikan Anda membaca dokumentasi dan petunjuk penggunaan yang lebih rinci pada masing-masing repositori.
+
+## Tim Penelitian TA-2024/2025-13
+
+* **Archico Sembiring** (11S21011)
+* **Benhard Yuda** (11S21003)
+* **Rafael A. C. Manurung** (11S21028)
+
+**Dosen Pembimbing:** Ranty Deviana Siahaan, S.Kom., M.Eng
 
 ## Kontribusi
 
